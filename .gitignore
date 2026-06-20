@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.agents/
+.codex/
+.repo_git/
+
+# Kaggle/runtime outputs
+submission.csv
+*.pt
+*.pth
+*.ckpt
